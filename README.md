@@ -6,6 +6,8 @@ My AI Chatbot
 
 Building my first AI chatbot.
 
+My chatbot will be able to have conversations with the user. It will also be able to answer the user's prompts or questions it may ask it.
+
 ## Getting Started
 
 ### Dependencies
